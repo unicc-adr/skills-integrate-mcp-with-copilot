@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"my-mcp-server-95e3f1b6": {
+			"url": "https://api.githubcopilot.com/mcp/",
+			"type": "http"
+		}
+	}
+}
